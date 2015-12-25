@@ -1,4 +1,4 @@
-#UML Creator V0.8.0#
+#UML Creator v0.8.0#
 
 ##Description##
 
